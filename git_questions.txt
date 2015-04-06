@@ -1,2 +1,3 @@
 1> commit commits to the stage and push pushes to remote so where is this stage location.
 2> whether plugin will be used
+3> third commit
